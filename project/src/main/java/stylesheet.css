@@ -1,0 +1,18 @@
+graph {
+    fill-color: #F2EBFF;
+    padding: 40px;
+
+}
+
+node {
+    text-alignment: under;
+    text-padding: 3px, 2px;
+    text-size: 16px;
+    text-alignment: center;
+    text-background-mode: rounded-box;
+    text-background-color: #99ccff;
+    text-offset: 15px, 15px;
+    size: 10px, 10px;
+    fill-color: #0C4271;
+    shape: circle;
+}
